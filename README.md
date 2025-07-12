@@ -2,7 +2,7 @@
 
 A fun and interactive **Tic Tac Toe Web Game** built as **Task 3** for the **Web Development Internship at Prodigy InfoTech**.
 
-🔗 [Live Demo](https://akanshathosar.github.io/PRODIGY_WD_03/)
+🔗 [Live Demo](https://akanshathosar.github.io/Prodigy_wd_03/)
 
 ---
 
